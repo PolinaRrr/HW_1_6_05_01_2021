@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="button_text_note_1">Note #1</string>
-    <string name="editText_hint">Some text</string>
+    <string name="button_text_note_1" translatable="false">Note #1</string>
+    <string name="editText_hint" translatable="false">Some text</string>
 </resources>

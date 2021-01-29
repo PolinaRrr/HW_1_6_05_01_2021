@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="true">Простые заметки</string>
+    <string name="button_text_note_1">Заметка №1</string>
+    <string name="button_text_note_2" translatable="true">Заметка №2</string>
+    <string name="button_text_note_3" translatable="true">Заметка №3</string>
+    <string name="textView_text_description" translatable="true">Описание</string>
+    <string name="editText_hint">Какой-то текст</string>
+</resources>
