@@ -28,11 +28,29 @@ public class ListOfNotesFragment extends Fragment implements View.OnClickListene
         button3.setOnClickListener(this);
         return rootView;
     }
+    int translateIdToIndex(int id) {
+        int index = -1;
+        switch (id) {
+            case R.id.button:
+                index = 1;
+                break;
+            case R.id.button2:
+                index = 2;
+                break;
+            case R.id.button3:
+                index = 3;
+                break;
+        }
+        return index;
+    }
 
     @Override
     public void onClick(View v) {
 
-        Toast.makeText(getActivity(), "The note is open",
+        int buttonIndex = translateIdToIndex(v.getId());
+
+        Toast.makeText(getActivity(), "Note № " + String.valueOf(buttonIndex) +" is open ",
                 Toast.LENGTH_SHORT).show();
     }
+
 }
