@@ -10,24 +10,25 @@
     <fragment
         android:id="@+id/fragment2"
         android:name="com.example.hw_1_6_05_01_2021.ListOfNotesFragment"
-        android:layout_width="@dimen/land_listOfNotesFragment_width"
-        android:layout_height="@dimen/land_listOfNotesFragment_height"
+        android:layout_width="@dimen/fragment2_width"
+        android:layout_height="@dimen/fragment2_height"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.059"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.136"
         tools:layout="@layout/list_of_notes_fragment" />
 
     <fragment
         android:id="@+id/fragment4"
         android:name="com.example.hw_1_6_05_01_2021.DescriptionOfNoteFragment"
-        android:layout_width="@dimen/land_listOfNotesFragment_width"
-        android:layout_height="@dimen/land_listOfNotesFragment_height"
+        android:layout_width="@dimen/fragment4_width"
+        android:layout_height="@dimen/fragment4_height"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.912"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.931"
+        app:layout_constraintVertical_bias="0.51"
         tools:layout="@layout/description_of_note_fragment" />
 </androidx.constraintlayout.widget.ConstraintLayout>

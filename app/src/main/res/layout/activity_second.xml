@@ -4,19 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
+    tools:context=".SecondActivity">
 
     <fragment
-        android:id="@+id/fragment2"
-        android:name="com.example.hw_1_6_05_01_2021.ListOfNotesFragment"
-        android:layout_width="@dimen/activity_main_fragment2_width"
-        android:layout_height="@dimen/activity_main_fragment2_height"
+        android:id="@+id/fragment4"
+        android:name="com.example.hw_1_6_05_01_2021.DescriptionOfNoteFragment"
+        android:layout_width="@dimen/activity_second_fragment4_width"
+        android:layout_height="@dimen/activity_second_fragment4_height"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.481"
-        tools:layout="@layout/list_of_notes_fragment" />
-
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
