@@ -5,4 +5,25 @@
     <string name="button_text_note_3" translatable="false">Note #3</string>
     <string name="textView_text_description" translatable="false">Description of the note</string>
     <string name="editText_hint">Some text</string>
+    <string-array name="notes">
+        <item>Duis aute irure dolor in reprehenderit in voluptate,
+        quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni
+        dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est,
+        ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus
+        asperiores repellat.</item>
+        <item>Duis aute irure dolor in reprehenderit in voluptate,
+        quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni
+        dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est,
+        ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus
+        asperiores repellat.</item>
+        <item>Duis aute irure dolor in reprehenderit in voluptate,
+        quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni
+        dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est,
+        ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus
+        asperiores repellat.</item>
+        <item>Temporibus autem quibusdam et aut officiis debitis aut rerum
+        necessitatibus saepe eveniet, unde omnis iste natus error sit voluptatem accusantium
+        doloremque laudantium, totam rem aperiam eaque ipsa, velit esse cillum dolore eu fugiat
+        nulla pariatur.</item>
+    </string-array>
 </resources>
