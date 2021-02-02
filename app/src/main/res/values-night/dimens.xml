@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editText_width">341dp</dimen>
+    <dimen name="editText_height">309dp</dimen>
+    <dimen name="editText_textMultiLine_width">346dp</dimen>
+    <dimen name="editText_textMultiLine_height">554dp</dimen>
+    <dimen name="land_editText_textMultiLine_width">677dp</dimen>
+    <dimen name="land_editText_textMultiLine_height">302dp</dimen>
+    <dimen name="land_listOfNotesFragment_width">699dp</dimen>
+    <dimen name="land_listOfNotesFragment_height">165dp</dimen>
+</resources>

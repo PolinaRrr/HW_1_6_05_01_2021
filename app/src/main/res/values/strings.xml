@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">HW_1_6_05_01_2021</string>
+    <string name="app_name" translatable="false">Simple Notes</string>
+    <string name="button_text_note_1">Note #1</string>
+    <string name="button_text_note_2" translatable="false">Note #2</string>
+    <string name="button_text_note_3" translatable="false">Note #3</string>
+    <string name="textView_text_description" translatable="false">Description of the note</string>
+    <string name="editText_hint">Some text</string>
 </resources>
