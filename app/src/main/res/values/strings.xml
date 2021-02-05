@@ -7,6 +7,12 @@
     <string name="editText_hint">Some text</string>
     <string name="button_text_note_4">Note #4</string>
     <string name="button_text_note_5">Note #5</string>
+    <string name="navigation_drawer_open">Navigation open </string>
+    <string name="navigation_drawer_close">Navigation close</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="navigation_header">Navigation header</string>
     <string-array name="notes">
         <item>Duis aute irure dolor in reprehenderit in voluptate,
         quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni

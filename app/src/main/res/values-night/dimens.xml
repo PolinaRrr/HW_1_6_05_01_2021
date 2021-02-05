@@ -19,4 +19,12 @@
     <dimen name="activity_second_fragment4_height">689dp</dimen>
     <dimen name="activity_main_fragment2_width">335dp</dimen>
     <dimen name="activity_main_fragment2_height">704dp</dimen>
+    <dimen name="textView2_width">199dp</dimen>
+    <dimen name="textView2_height">46dp</dimen>
+    <dimen name="textView2_marginStart">24dp</dimen>
+    <dimen name="textView2_marginLeft">24dp</dimen>
+    <dimen name="textView2_marginTop">44dp</dimen>
+    <dimen name="textView2_marginEnd">8dp</dimen>
+    <dimen name="textView2_marginRight">8dp</dimen>
+    <dimen name="textView2_textSiz">18sp</dimen>
 </resources>

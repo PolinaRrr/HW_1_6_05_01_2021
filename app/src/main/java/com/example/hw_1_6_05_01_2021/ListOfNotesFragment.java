@@ -1,11 +1,11 @@
 package com.example.hw_1_6_05_01_2021;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
@@ -59,10 +59,13 @@ public class ListOfNotesFragment extends Fragment implements View.OnClickListene
         OnSelectedButtonListener listener = (OnSelectedButtonListener) getActivity();
         listener.onButtonSelected(buttonIndex);
 
-        int buttonIndex = translateIdToIndex(v.getId());
+        buttonIndex = translateIdToIndex(v.getId());
 
         Toast.makeText(getActivity(), "Note № " + String.valueOf(buttonIndex) +" is open ",
                 Toast.LENGTH_SHORT).show();
     }
 
+    public interface OnSelectedButtonListener {
+        void onButtonSelected(int buttonIndex);
+    }
 }
