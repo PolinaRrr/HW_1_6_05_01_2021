@@ -18,14 +18,13 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.091" />
 
-    <EditText
-        android:id="@+id/editTextTextMultiLine"
+    <TextView
+        android:id="@+id/textViewText"
         android:layout_width="@dimen/editText_textMultiLine_width"
         android:layout_height="@dimen/editText_textMultiLine_height"
         android:ems="10"
         android:gravity="center"
         android:hint="@string/editText_hint"
-        android:inputType="textMultiLine"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.492"

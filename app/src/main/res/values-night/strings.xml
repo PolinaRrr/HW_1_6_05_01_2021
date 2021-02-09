@@ -2,4 +2,10 @@
 <resources>
     <string name="button_text_note_1" translatable="false">Note #1</string>
     <string name="editText_hint" translatable="false">Some text</string>
+    <string name="button_text_note_4">Note #4</string>
+    <string name="button_text_note_5">Note #5</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="favorites">Favorites</string>
+    <string name="navigation_header">Navigation header</string>
 </resources>

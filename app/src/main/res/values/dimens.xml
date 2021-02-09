@@ -9,6 +9,25 @@
     <dimen name="editText_textMultiLine_height">554dp</dimen>
     <dimen name="land_editText_textMultiLine_width">677dp</dimen>
     <dimen name="land_editText_textMultiLine_height">302dp</dimen>
-    <dimen name="land_listOfNotesFragment_width">699dp</dimen>
-    <dimen name="land_listOfNotesFragment_height">165dp</dimen>
+    <dimen name="land_listOfNotesFragment_width">200dp</dimen>
+    <dimen name="land_listOfNotesFragment_height">200dp</dimen>
+    <dimen name="fragment2_width">226dp</dimen>
+    <dimen name="fragment2_height">313dp</dimen>
+    <dimen name="fragment4_width">412dp</dimen>
+    <dimen name="fragment4_height">311dp</dimen>
+    <dimen name="button_width">200dp</dimen>
+    <dimen name="button_height">70dp</dimen>
+    <dimen name="land_button_height">45dp</dimen>
+    <dimen name="activity_second_fragment4_width">371dp</dimen>
+    <dimen name="activity_second_fragment4_height">689dp</dimen>
+    <dimen name="activity_main_fragment2_width">335dp</dimen>
+    <dimen name="activity_main_fragment2_height">704dp</dimen>
+    <dimen name="textView2_width">199dp</dimen>
+    <dimen name="textView2_height">46dp</dimen>
+    <dimen name="textView2_marginStart">24dp</dimen>
+    <dimen name="textView2_marginLeft">24dp</dimen>
+    <dimen name="textView2_marginTop">44dp</dimen>
+    <dimen name="textView2_marginEnd">8dp</dimen>
+    <dimen name="textView2_marginRight">8dp</dimen>
+    <dimen name="textView2_textSiz">18sp</dimen>
 </resources>

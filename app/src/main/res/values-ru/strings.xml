@@ -5,4 +5,25 @@
     <string name="button_text_note_3" translatable="true">Заметка №3</string>
     <string name="textView_text_description" translatable="true">Описание</string>
     <string name="editText_hint">Какой-то текст</string>
+    <string name="button_text_note_4">Заметка #4</string>
+    <string name="button_text_note_5">Заметка #5</string>
+    <string name="navigation_drawer_open">Навигация открыта</string>
+    <string name="navigation_drawer_close">Навигация закрыта</string>
+    <string name="home">На главную</string>
+    <string name="profile">Профиль</string>
+    <string name="favorites">Избранное</string>
+    <string name="navigation_header">Навигация</string>
+    <string-array name="notes">
+        <item>Повседневная практика показывает, что мне самой стыдно иногда читать свой код.</item>
+        <item>Дорогие друзья, если бы Марк Твен встретился со мной лично, то легендарная
+        фраза про киты была бы посвящена именно мне. ?</item>
+        <item>Равным образом выбранный нами инновационный путь
+        играет важную роль в формировании соответствующих условий активизации.Таков путь.</item>
+        <item>С другой стороны новая модель организационной
+        деятельности обеспечивает актуальность направлений прогрессивного развития!С другой
+        стороны, я занимаюсь абсолютной фигнёй.</item>
+        <item>Казалось бы приключение на 20 минут зашли и вышли, но нет</item>
+        <item>Всем рекомендую использовать как аргумент в комментах  ГОСТ 5812-82</item>
+    </string-array>
+
 </resources>
